@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Global Resource
+  - NetWork
+  - Target
+  - Player1
+  - Target1
+  - Target2
+  - Player2
+  - EVBamsongi
+  - EVBomb
+  - EVGoldshell
+  - EVGrenade
+  - Bomb
+  - Shell
+  - Basket
+  - Bamsongi
+  - Apple
+  - Miniun
+  - Grenade
+  - EVApple
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Board
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
